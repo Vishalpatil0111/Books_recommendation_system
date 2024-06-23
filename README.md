@@ -21,8 +21,9 @@ The system is built on a dataset that includes various features of books such as
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/book-recommendation-system.git
-   cd book-recommendation-system
+   git clone https://github.com/Vishalpatil0111/Books_recommendation_system.git
+   cd Books_recommendation_system
+   ```
 2.Install the required dependencies:
 ```bash
   pip install -r requirements.txt
